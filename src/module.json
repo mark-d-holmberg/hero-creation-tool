@@ -18,13 +18,13 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "https://github.com/HeroCreationLab/hero-creation-tool",
-  "license": "https://github.com/HeroCreationLab/hero-creation-tool/blob/main/LICENSE",
-  "readme": "https://github.com/HeroCreationLab/hero-creation-tool/blob/main/README.md",
-  "changelog": "https://github.com/HeroCreationLab/hero-creation-tool/blob/main/docs/CHANGELOG.md",
-  "bugs": "https://github.com/HeroCreationLab/hero-creation-tool/issues",
-  "manifest": "https://github.com/HeroCreationLab/hero-creation-tool/{{name}}/bundle/module.json",
-  "download": "https://github.com/HeroCreationLab/hero-creation-tool/{{name}}/bundle/{{name}}.zip",
+  "url": "https://github.com/mark-d-holmberg/hero-creation-tool",
+  "license": "https://github.com/mark-d-holmberg/hero-creation-tool/blob/main/LICENSE",
+  "readme": "https://github.com/mark-d-holmberg/hero-creation-tool/blob/main/README.md",
+  "changelog": "https://github.com/mark-d-holmberg/hero-creation-tool/blob/main/docs/CHANGELOG.md",
+  "bugs": "https://github.com/mark-d-holmberg/hero-creation-tool/issues",
+  "manifest": "https://github.com/mark-d-holmberg/hero-creation-tool/{{name}}/bundle/module.json",
+  "download": "https://github.com/mark-d-holmberg/hero-creation-tool/{{name}}/bundle/{{name}}.zip",
   "flags": {
     "allowBugReporter": true
   },
